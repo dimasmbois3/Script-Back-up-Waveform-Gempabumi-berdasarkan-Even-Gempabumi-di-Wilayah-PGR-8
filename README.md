@@ -1,0 +1,2 @@
+# Script-Back-up-Waveform-Gempabumi-berdasarkan-Even-Gempabumi-di-Wilayah-PGR-8
+Script Back Up Waveform Gempabumi Berdasarkan Event Gempabumi di Wilayah PGR 8 merupakan program berbasis Python yang dirancang untuk melakukan pencadangan data waveform gempabumi secara otomatis berdasarkan event yang terjadi di wilayah PGR 8, guna menjamin keamanan data, kemudahan akses, dan keberlanjutan analisis seismik.
